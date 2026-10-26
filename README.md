@@ -144,4 +144,3 @@ Sample output (file):
 2026-10-26 23:30:12.103 WARN  [http-nio-8080-exec-1] [a1b2c3d4] c.e.l.exception.GlobalExceptionHandler - Resource not found: Product with id 999 not found (path=/api/products/999)
 2026-10-26 23:30:12.105 INFO  [http-nio-8080-exec-1] [a1b2c3d4] c.e.l.config.RequestLoggingFilter - <-- GET /api/products/999 status=404 duration=5ms
 ```
-# spring-boot-logging-demo
